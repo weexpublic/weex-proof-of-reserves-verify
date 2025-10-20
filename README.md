@@ -15,7 +15,7 @@ weex平台资产证明
 #### 2.download weex-proof-of-reserves-verify from github
 
 ```
-git clone https://github.com/weex-plugins/weex-proof-of-reserves-verify.git
+git clone https://github.com/weexpublic/weex-proof-of-reserves-verify.git
 ```
 
 ### 3.download user balance data
